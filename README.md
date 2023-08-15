@@ -9,7 +9,7 @@ Ark Industries will be a reference for automation in the history of technology.
 This page shows an example of how to fetch data in React from an external source.  
 In this case, information about three spacecraft names, flights, and status is fetched from the Space Devs library.  
 The information is displayed in a carousel from Bootstrap. There are also buttons to get more details about each spacecraft.  
-A option to change the theme to dark or light has also been added as a floating button at the bottom right.
+A option to change the theme to dark or light has also been added as a floating button at the bottom right.  
 Here you can see how it works: <a href="https://www.loom.com/share/be221b40f46e49adad6b4e8263bf8497?sid=25234d7f-283b-4e39-b21d-0d82b2729389" target="_blank">Video</a>
 
 ## How to run
