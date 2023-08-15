@@ -1,98 +1,33 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Web Projects" />
+<h1><img src="./src/favicon.ico" alt="personal logo" width=25> Ark Industries</h1>
 
-  &#xa0;
+> Version 1
 
-  <!-- <a href="https://webprojects.netlify.app">Demo</a> -->
-</div>
+Ark Industries will be a reference for automation in the history of technology.
 
-<h1 align="center">Web Projects</h1>
+## Fetching data from external sources in React using Axios
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8">
+This page shows an example of how to fetch data in React from an external source.  
+In this case, information about three spacecraft names, flights, and status is fetched from the Space Devs library.  
+The information is displayed in a carousel from Bootstrap. There are also buttons to get more details about each spacecraft.  
+A option to change the theme to dark or light has also been added as a floating button at the bottom right.
+Here you can see how it works: <a href="https://www.loom.com/share/be221b40f46e49adad6b4e8263bf8497?sid=25234d7f-283b-4e39-b21d-0d82b2729389" target="_blank">Video</a>
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8">
+## How to run
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8">
+This file can be used for beginners in the web development World to create their first web page in GitHub.  
+To use it locally, fork it to your repository and then download it to your computer. Install the HTTP server and run the project with it.  
+For more information on how to deploy the local server visit <a href="https://www.npmjs.com/package/http-server" target="_blank">npm http-server</a>
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8">
+## Support
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8" /> -->
+You can mail me any question to yupari87157@gmail.com  
+You can add me on LinkedIn for some explanation about the use of this code.  
+<p>Add me: <a href="https://www.linkedin.com/in/markyupariruiz/" target="_blank">Mark Yupari LinkedIn profile</a></p>
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8" /> -->
+## Roadmap
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/web-projects?color=56BEB8" /> -->
-</p>
+In next version more styling will be added.
 
-<!-- Status -->
+## License
 
-<!-- <h4 align="center"> 
-	🚧  Web Projects 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
-</p>
-
-<br>
-
-## :dart: About ##
-
-Describe your project
-
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
-
-The following tools were used in this project:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/web-projects
-
-# Access
-$ cd web-projects
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
+This file is free and open source. You can use it for commercial projects, open source projects, or really almost whatever you want.
